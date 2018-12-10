@@ -2,7 +2,7 @@
 
 Table of contents Table of contents
 
-https://nmetau.edu.ua/img/kart-knigi222-sayt.jpg
+![](https://nmetau.edu.ua/img/kart-knigi222-sayt.jpg)
 
 that is not funny
 
