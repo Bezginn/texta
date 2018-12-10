@@ -1,6 +1,6 @@
 # texta opa\_opa
 
-Table of contents Table of contents
+
 
 that is not funny
 
