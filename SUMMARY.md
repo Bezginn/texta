@@ -1,6 +1,6 @@
 # Table of contents
 
-* [texta aga\_aga](README.md)
+* [texta opa\_opa](README.md)
 * [src](src/README.md)
   * [main](src/main/README.md)
     * [resources](src/main/resources/README.md)
